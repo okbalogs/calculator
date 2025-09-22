@@ -18,15 +18,13 @@ Created as part of the **COS 104** assignment.
 ---
 
 ## 📁 Project Structure
-
+```bash
 calculator/
 ├── index.html
-
 ├── index.css
-
 ├── index.js
-
 └── README.md
+```
 
 - `index.html` – Main HTML structure  
 - `index.css` – Styles and layout  
