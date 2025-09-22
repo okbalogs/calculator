@@ -21,8 +21,11 @@ Created as part of the **COS 104** assignment.
 
 calculator/
 ├── index.html
+
 ├── index.css
+
 ├── index.js
+
 └── README.md
 
 - `index.html` – Main HTML structure  
